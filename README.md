@@ -1,3 +1,7 @@
+https://media.giphy.com/media/ntbBbiUI9o7Xj7Pr45/giphy.gif
+
+
+
 - 👋 Hi, I’m @MohammedAbidGit
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning SQL, Tableau and Python
