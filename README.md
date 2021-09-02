@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning SQL, Tableau and Python
 - 💞️ I’m looking to collaborate in the Data analysis field
-- 📫 How to reach me [email](abid_126@hotmail.co.uk0
+- 📫 How to reach me [email](abid_126@hotmail.co.uk)
 
 <!---
 MohammedAbidGit/MohammedAbidGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
