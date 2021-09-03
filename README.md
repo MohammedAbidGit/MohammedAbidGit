@@ -1,5 +1,4 @@
-<iframe src="https://giphy.com/embed/OhkMiKX0uMmLC" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watch-apple-alle-OhkMiKX0uMmLC">via GIPHY</a></p> [gif]
-
+<iframe src="https://giphy.com/embed/OhkMiKX0uMmLC" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watch-apple-alle-OhkMiKX0uMmLC">via GIPHY</a></p>
 
 - 👋 Hi, I’m @MohammedAbidGit
 - 👀 I’m interested in Data analytics
